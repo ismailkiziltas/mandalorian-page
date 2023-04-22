@@ -2,12 +2,12 @@
 
 Burada sadece HTML, CSS ve birazda JS kullandım.
 
-## Kullandığım CDN'ler
+## Kullandığım CDN'ler 🔗
 
-- ICON: boxicon cdn
-- ICON: remixicon cdn
-- FONTS: google-fonts cdn
-- EFFECT: scrollreveal cdn
+- ICON:    ✅ boxicon cdn 🔗
+- ICON:    ✅ remixicon cdn 🔗
+- FONTS:   ✅ google-fonts cdn 🔗
+- EFFECT:  ✅ scrollreveal cdn 🔗
 
 # Desktop 💻
 
