@@ -1,4 +1,4 @@
-# Merhaba👋, bu çalışmamda çok sevdiğim Mandalorian dizisinin template'ini responsive olarak çıkartmak istedim.
+# Merhaba👋, bu çalışmamda çok sevdiğim Mandalorian dizisinin template'ini responsive olarak çalışmak istedim.
 
 Burada sadece HTML, CSS ve birazda JS kullandım.
 
