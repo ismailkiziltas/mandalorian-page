@@ -4,9 +4,9 @@ Burada sadece HTML, CSS ve birazda JS kullandım.
 
 ## Kullandığım CDN'ler 🔗
 
-- ICON: &nbsp; &nbsp;✅ boxicon cdn 🔗
-- ICON: &nbsp; &nbsp;   ✅ remixicon cdn 🔗
-- FONTS: &nbsp; &nbsp;  ✅ google-fonts cdn 🔗
+- ICON: &nbsp; &nbsp; &nbsp;✅ boxicon cdn 🔗
+- ICON: &nbsp; &nbsp;✅ remixicon cdn 🔗
+- FONTS: &nbsp; &nbsp; ✅ google-fonts cdn 🔗
 - EFFECT: &nbsp; ✅ scrollreveal cdn 🔗
 
 # Desktop 💻
